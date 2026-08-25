@@ -1,0 +1,14 @@
+[
+  {
+    "title":"Building with AI, Thinking Like an Engineer",
+    "date":"2026-06-12",
+    "readTime":"6 min",
+    "excerpt":"A practical look at combining prompt-driven prototyping with the fundamentals that make software dependable."
+  },
+  {
+    "title":"From Prompt to Production",
+    "date":"2026-04-05",
+    "readTime":"8 min",
+    "excerpt":"What it takes to move an AI-assisted prototype through APIs, auth, email workflows, databases, and deployment."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title":"Gemini AI Voice Assistant",
+    "description":"A desktop and web voice assistant built with prompt-driven workflows, Gemini API natural language generation, and fallback handling for network drops.",
+    "tech":["Lovable","Python","Gemini API","PyTTSx3","Vercel"],
+    "live":"https://vercel.com",
+    "repo":"https://github.com/Rahulpappula"
+  },
+  {
+    "title":"Real-Time Location Tracker",
+    "description":"Live telemetry tracking with WebSocket streams, boundary-based SMTP alerts, Supabase persistence and authentication, and a Render backend.",
+    "tech":["Bolt.new","React","Node.js","Supabase","Nodemailer"],
+    "live":"https://render.com",
+    "repo":"https://github.com/Rahulpappula"
+  },
+  {
+    "title":"Battery Monitoring Tool",
+    "description":"A background automation utility that monitors battery charge cycles and health indicators, dispatching warnings when thresholds become critical.",
+    "tech":["Python","SMTP","Android Studio","PyStray"],
+    "live":"",
+    "repo":"https://github.com/Rahulpappula"
+  },
+  {
+    "title":"Tuition Point Platform",
+    "description":"A localized service marketplace prototype with responsive UI, accessible flows, SMTP contact forms, and relational MySQL data models.",
+    "tech":["Antigravity","HTML5","CSS3","JavaScript","MySQL"],
+    "live":"https://vercel.com",
+    "repo":"https://github.com/Rahulpappula"
+  }
+]
